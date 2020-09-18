@@ -1,10 +1,7 @@
-# Predicting-University-Admissions
-**Task Details**
+# Weather Conditions in World War Two
+**Content**
 
-Using the supplied predictive variables (GRE score, TOEFL score, University Rating, etc) to predict the likelihood of admission of a new candidate.
+The dataset contains information on weather conditions recorded on each day at various weather stations around the world. Information includes precipitation, snowfall, temperatures, wind speed and whether the day included thunder storms or other poor weather conditions.
 
-**Evaluation Criteria**
 
-The best model should be the one that evaluates to have the lowest RMSE overall, and please indicate the error you get on validation set containing the last 100 observations.
-
-[Here is a link to the dataset](https://www.kaggle.com/mohansacharya/graduate-admissions/tasks?taskId=6)
+[Here is a link to the dataset](https://www.kaggle.com/smid80/weatherww2/data)
