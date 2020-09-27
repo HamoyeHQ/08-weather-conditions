@@ -81,6 +81,7 @@ GENERALLY REPORTED WITH A DEPTH OF AT LEAST 2 INCHES.
 Data info from: https://www.ncdc.noaa.gov/data-access/land-based-station-data/land-based-datasets/world-war-ii-era-data
 
 Weather station location:
+
 WBAN: Weather station number
 NAME: weather station name
 STATE/COUNTRY ID: acronym of countries
