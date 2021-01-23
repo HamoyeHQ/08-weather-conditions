@@ -5,3 +5,5 @@ The dataset contains information on weather conditions recorded on each day at v
 
 
 [Here is a link to the dataset](https://www.kaggle.com/smid80/weatherww2/data)
+
+Project Article : https://medium.com/hamoye-blogs/weather-forecasting-a-time-series-analysis-1767a240c350
